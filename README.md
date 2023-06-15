@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/winbin014@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:winbin014@gmail.com)
 [![discord](https://img.shields.io/badge/contact-kourou7776-blue?logo=discord&logoColor=white)](https://discordapp.com/users/183202972203876352)
 
-I'am 3D Modeling / Texture Artist before, but now I'm joining the Engineer Hellow World!!
+I am 3D Modeling / Texture Artist before, but now I'm joining the Engineer Hellow World!!
 
 <!-- [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
