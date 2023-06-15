@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm <a  href="https://google.com">Kourou🦄 </a> </h1>
+<h1 align="left">Hi, I'm <a  href="https://google.com">Kourou 江文彬🦄 </a> </h1>
 
 [![Gmail Badge](https://img.shields.io/badge/winbin014@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:winbin014@gmail.com)
 [![discord](https://img.shields.io/badge/contact-kourou7776-blue?logo=discord&logoColor=white)](https://discordapp.com/users/183202972203876352)
